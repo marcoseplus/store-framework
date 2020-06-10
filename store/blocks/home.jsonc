@@ -5,7 +5,7 @@
     ]
   },
   "rich-text": {
-    "pops": {
+    "props": {
       "text": "**Hello, world!**",
       "textPosition": "RIGHT"
     }
