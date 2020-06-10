@@ -5,7 +5,7 @@
     ]
   },
   "rich-text": {
-    "text": "*Hello, world!*",
+    "text": "**Hello, world!**",
     "textPosition": "RIGHT"
   }
 }
